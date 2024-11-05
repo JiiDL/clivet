@@ -131,13 +131,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Contact
 
-Mariusz Maciejewski -  <a href="mailto:maciejewski_mariusz@wp.pl">maciejewski_mariusz@wp.pl
-
-Project Link: [https://github.com/minvoo/clivet](https://github.com/minvoo/clivet)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
