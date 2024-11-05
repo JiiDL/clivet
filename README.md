@@ -11,18 +11,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-<img src="https://github.com/minvoo/clivet/blob/master/src/main/java/com/teamone/clivet/readme_files/demo-clivet-1.png" />
-  <a href="https://github.com/minvoo/clivet">
-  </a>
 
-<h3 align="center">CLIVET</h3>
- <center>  ·
-    <a href="https://github.com/minvoo/clivet/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/minvoo/clivet/issues/new">Request Feature</a>
-</center>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
