@@ -139,11 +139,7 @@ Project Link: [https://github.com/minvoo/clivet](https://github.com/minvoo/clive
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<div align="center">
-<img src="https://github.com/minvoo/clivet/blob/master/src/main/java/com/teamone/clivet/readme_files/demo-clivet-3.png" />
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/minvoo/clivet.svg?style=for-the-badge
 
